@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Project Name**: AI Chatbot Wife  
+**Project Name**: AI Character Chat  
 **Description**: “This POC demonstrates an AI chatbot application where users can interact with an anime character that responds with text and images, simulating conversation scenarios based on the time of day.”
 
 ## Features
