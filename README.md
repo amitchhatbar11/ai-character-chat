@@ -107,9 +107,3 @@ Provide step-by-step instructions to set up the project locally:
     cd ../frontend
     npm start
     ```
-
-![alt text](image.png)
-
-![alt text](image-2.png)
-
-![alt text](image-3.png)
